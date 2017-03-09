@@ -3,7 +3,7 @@
 Profesor Rossa was an educational TV Program
 in Chile. From the 80's and 90's.
 
-The main chars where
+The main chars were
 
 - Profesor Rossa
 - Don Carter
