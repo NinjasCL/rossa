@@ -1403,6 +1403,11 @@ function ()
 		
 		menu.options.draw()
 		
+		print("press 'z' to play",
+			menu.logo.pos.x + 5,
+			menu.logo.pos.y - 15,
+			colors.pink)
+			
 		print("2017 ‡ ninjas.cl",
 			menu.logo.pos.x + 6,
 			menu.logo.pos.total_y + 40,
